@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		18636BD719FDDCB800A0F265 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18636BD619FDDCB800A0F265 /* 9.jpg */; };
+=======
+		181A625019ED173100F905E8 /* 9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 181A624F19ED173100F905E8 /* 9.jpg */; };
+>>>>>>> FETCH_HEAD
 		18AC0C4F19EEAAF900DB5D3C /* 18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18AC0C4C19EEAAF900DB5D3C /* 18.jpg */; };
 		18AC0C5019EEAAF900DB5D3C /* 19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18AC0C4D19EEAAF900DB5D3C /* 19.jpg */; };
 		18AC0C5119EEAAF900DB5D3C /* 20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18AC0C4E19EEAAF900DB5D3C /* 20.jpg */; };
@@ -47,7 +51,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		18636BD619FDDCB800A0F265 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+=======
+		181A624F19ED173100F905E8 /* 9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.jpg; sourceTree = "<group>"; };
+>>>>>>> FETCH_HEAD
 		18AC0C4C19EEAAF900DB5D3C /* 18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 18.jpg; sourceTree = "<group>"; };
 		18AC0C4D19EEAAF900DB5D3C /* 19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 19.jpg; sourceTree = "<group>"; };
 		18AC0C4E19EEAAF900DB5D3C /* 20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 20.jpg; sourceTree = "<group>"; };
@@ -131,7 +139,11 @@
 				18D435D319E8F05D00E2CA4D /* 6.jpg */,
 				18D435D119E8DADE00E2CA4D /* 7.jpg */,
 				18D435E219EA67EB00E2CA4D /* 8.jpg */,
+<<<<<<< HEAD
 				18636BD619FDDCB800A0F265 /* 9.jpg */,
+=======
+				181A624F19ED173100F905E8 /* 9.jpg */,
+>>>>>>> FETCH_HEAD
 				18B7C11019EE3FA200839EC8 /* 17.jpg */,
 				18B7C11119EE3FA200839EC8 /* 14.jpg */,
 				18B7C11219EE3FA200839EC8 /* 16.jpg */,
@@ -258,6 +270,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				18B7C11919EE3FA200839EC8 /* 14.jpg in Resources */,
+<<<<<<< HEAD
+=======
+				181A625019ED173100F905E8 /* 9.jpg in Resources */,
+>>>>>>> FETCH_HEAD
 				18B7C11C19EE3FA200839EC8 /* 12.jpg in Resources */,
 				18B7C11819EE3FA200839EC8 /* 17.jpg in Resources */,
 				18D435E319EA67EB00E2CA4D /* 8.jpg in Resources */,
@@ -278,7 +294,10 @@
 				18D435DF19E8F05D00E2CA4D /* 5.jpg in Resources */,
 				18D435D219E8DADE00E2CA4D /* 7.jpg in Resources */,
 				18D435DC19E8F05D00E2CA4D /* 1.jpg in Resources */,
+<<<<<<< HEAD
 				18636BD719FDDCB800A0F265 /* 9.jpg in Resources */,
+=======
+>>>>>>> FETCH_HEAD
 				18B7C11B19EE3FA200839EC8 /* 11.jpg in Resources */,
 				18AC0C5119EEAAF900DB5D3C /* 20.jpg in Resources */,
 			);
