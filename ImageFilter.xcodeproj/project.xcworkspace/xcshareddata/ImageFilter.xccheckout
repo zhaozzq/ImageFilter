@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7C6B5004-3C9D-4D24-A6BE-2EBFB620A5F6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImageFilter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24A3FF5F09071184513636413F959FD88B368653</key>
+		<string>https://github.com/zhaozzq/ImageFilter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ImageFilter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24A3FF5F09071184513636413F959FD88B368653</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhaozzq/ImageFilter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>24A3FF5F09071184513636413F959FD88B368653</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24A3FF5F09071184513636413F959FD88B368653</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ImageFilter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
